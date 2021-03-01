@@ -1,0 +1,99 @@
+{
+  "main": {
+    "name": "Rahulkumar Vishwakarma",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React Developer",
+    "image": "rahul.jpeg",
+    "bio": "My name is Rahulkumar, I'm a Full Stack ReactJS Developer. Currently I'm working as a Programmer while also learning ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "rahul.vishwakarma2507@gmail.com",
+    "phone": "+91 9372335161",
+  
+    "address": {
+      "street": "Sector 13 ,jeevandeep society",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "410218"
+    },
+    
+    "website": "https://www.facebook.com/profile.php?id=100041384100342",
+    "resumedownload": "https://www.facebook.com/profile.php?id=100041384100342",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100041384100342",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/rahuljv786/",
+        "className": "fa fa-linkedin"
+      }
+  
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "mumbai university",
+        "degree": "Electronics and telecommunication engineering",
+        "graduated": "sep 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "work from home",
+        "title": "Team Member",
+        "years": "April 2020 - Present",
+        "description": "Learning web deveopment"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone",
+        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "image": "whatsapp-mern.jpeg"
+       
+      },
+     
+      {
+        "title": "Airbnb Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "airbnb-clone.jpeg"
+
+      },
+      {
+        "title": "Netflix Clone",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "netflix-clone.jpeg"
+      
+      }
+    ]
+  }
+  }
